@@ -10,7 +10,6 @@ import java.util.Scanner;
  * Will also check if decompressed file and original file have equivalent content
  *
  * @author Logan Chang, CS10, PS3, 20F
- * @author Ashna Kumar, CS10, PS3, 20F
  */
 public class Driver {
     /**
