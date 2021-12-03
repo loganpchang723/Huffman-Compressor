@@ -6,7 +6,6 @@ import java.util.HashMap;
  * NOTE: all files are taken from 'inputs' directory of IntelliJ directory
  *
  * @author Logan Chang, CS10, PS3, 20F
- * @author Ashna Kumar, CS10, PS3, 20F
  */
 public class Compressor {
     private final HuffmanTools ht;
