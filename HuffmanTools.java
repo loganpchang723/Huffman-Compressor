@@ -11,7 +11,6 @@ import java.util.PriorityQueue;
  * Does so by creating Huffman Encoding Tree and bit codes for each distinct character in the file
  *
  * @author Logan Chang, CS10, PS3, 20F
- * @author Ashna Kumar, CS10, PS3, 20F
  */
 public class HuffmanTools {
     private HashMap<Character, Integer> charCounts; //map that holds the frequency of each character in the file in char:frequency form
